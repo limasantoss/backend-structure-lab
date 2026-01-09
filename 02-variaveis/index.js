@@ -1,5 +1,5 @@
 //1 -Criando uma variavel com const (Não mudam)
-const tech ="Javascript";
+const tech ="Javascript" ;
 const framework ="React";
 console.log("Estou estudando" + tech + "para usar com " + framework);
 
