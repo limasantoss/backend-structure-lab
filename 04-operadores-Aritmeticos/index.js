@@ -1,5 +1,5 @@
 const originalPrice = 500;
-const discountPercentage = 15 ;  // 15$
+const discountPercentage = 15;  // 15$
 
 const discontValue = (originalPrice * discountPercentage) / 100
 const finalPrice = originalPrice - discontValue  
