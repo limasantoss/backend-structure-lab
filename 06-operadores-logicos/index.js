@@ -15,3 +15,10 @@ console.log(lavarLouca || fazerDever)
 
 const isOpen = false
 console.log(!isOpen)
+
+const tomouBanho = true;
+const escovou = false;
+const lavou = true;
+const dever = false;
+
+console.log((tomouBanho && escovou) && (lavou || dever));
