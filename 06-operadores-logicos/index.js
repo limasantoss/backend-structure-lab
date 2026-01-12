@@ -1,0 +1,5 @@
+// logicos 
+
+// && E (AND)
+// || OU (OR)
+// ! NÃO (NOT)
