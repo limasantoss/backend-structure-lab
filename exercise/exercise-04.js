@@ -4,4 +4,4 @@ let resultado = precoProduto * desconto
 console.log(resultado)
 
 const resultadoFinal = precoProduto - resultado
-console.log(resultadoFinal)
+console.log(`O resultado final é ${resultadoFinal}`)
