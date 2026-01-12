@@ -22,3 +22,7 @@ const lavou = true;
 const dever = false;
 
 console.log((tomouBanho && escovou) && (lavou || dever));
+
+const idade = 17;
+const temAutorizacao = true;
+console.log((idade >= 18) || temAutorizacao);
